@@ -2,6 +2,9 @@
   <img src="clock.webp" alt="Clock Logo" width="200"/>
 </p>
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-iOS-red)
+
 
 # Welcome to my Workout Timer App!!
 
