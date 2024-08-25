@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="clock.webp" alt="Clock Logo" width="200"/>
+</p>
+
+
 # Welcome to my Workout Timer App!!
 
 The Interval Timer App helps you stay on track during your runs or walks by reminding you when to switch between running and walking. You can input your intervals, and the app will vibrate when it’s time to change actions.
